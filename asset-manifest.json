@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/prayer/static/css/main.a67832b0.chunk.css",
+    "main.js": "/prayer/static/js/main.b2a1f02c.chunk.js",
+    "main.js.map": "/prayer/static/js/main.b2a1f02c.chunk.js.map",
+    "runtime~main.js": "/prayer/static/js/runtime~main.c67e8d29.js",
+    "runtime~main.js.map": "/prayer/static/js/runtime~main.c67e8d29.js.map",
+    "static/js/2.ca150098.chunk.js": "/prayer/static/js/2.ca150098.chunk.js",
+    "static/js/2.ca150098.chunk.js.map": "/prayer/static/js/2.ca150098.chunk.js.map",
+    "static/js/3.1b3c587a.chunk.js": "/prayer/static/js/3.1b3c587a.chunk.js",
+    "static/js/3.1b3c587a.chunk.js.map": "/prayer/static/js/3.1b3c587a.chunk.js.map",
+    "index.html": "/prayer/index.html",
+    "precache-manifest.e98b0260db7105f84a31deddfa123893.js": "/prayer/precache-manifest.e98b0260db7105f84a31deddfa123893.js",
+    "service-worker.js": "/prayer/service-worker.js",
+    "static/css/main.a67832b0.chunk.css.map": "/prayer/static/css/main.a67832b0.chunk.css.map",
+    "static/media/index.css": "/prayer/static/media/bg.8ad1bef8.jpg"
+  }
+}
